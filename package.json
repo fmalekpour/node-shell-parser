@@ -23,6 +23,6 @@
   },
   "homepage": "https://github.com/namshi/node-shell-parser",
   "dependencies": {
-    "lodash": "^2.4.1"
+    "lodash": "^4.17.15"
   }
 }
